@@ -1,5 +1,5 @@
 <?php
-define('API_KEY', '1045080254:AAFu62DclZEMltoGlnMl-OKI1PNVEz2_EHk');
+define('API_KEY', '1497006899:AAEeb75zT1w8IaW7dnr-rK-YjIMYwE8AM1s');
 $admin = "406823088"; // admin idsi
 $channel = "@karonaism";
 function del($nomi)
